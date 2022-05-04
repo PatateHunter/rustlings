@@ -94,7 +94,7 @@ pub struct ExerciseOutput {
     // The textual contents of the standard output of the binary
     pub stdout: String,
     // The textual contents of the standard error of the binary
-    pub stderr: String,
+    pub stderr: String,rustlin
 }
 
 struct FileHandle;
